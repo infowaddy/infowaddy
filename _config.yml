@@ -8,12 +8,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Zin Min - System Architect
-author-img: david-freeman.jpg # add your photo
+author-img: zinmin_profile.jpg # add your photo
 about-author: I am a system architect focusing on the system design, coding and software engineering. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: https://www.facebook.com/zin.min.92
 social-github: infowaddy # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: https://www.linkedin.com/in/zinmin-digital-architect/
 social-email: zinmin@hotmail.com
 
 # Disqus
